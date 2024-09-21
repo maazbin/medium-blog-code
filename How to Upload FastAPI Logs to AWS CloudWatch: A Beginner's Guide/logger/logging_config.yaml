@@ -1,0 +1,9 @@
+# logger/logging_config.yaml
+
+aws:
+  region: "your-aws-region"
+  log_group: "your-log-group"
+
+app_logger:
+  name: "logger-name"
+  level: 10  # This is the numeric value for logging.DEBUG
