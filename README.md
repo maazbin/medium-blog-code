@@ -1,22 +1,19 @@
-# Learn with me
+# FastAPI CloudWatch Logger
 
-This repo is to share my learning with the community
+This tutorial uses AWS Secrets manager for managing API keys. You can use any other secure service. Also, it is assumed that you already know how to create an AWS Secret
 
-# Code and Tech Blogs
 
-Welcome to my repository of code samples and tech blogs! Here, you will find various projects and examples related to my Medium articles.
+## Overview
 
-## Explore My Blogs
+In this tutorial, we'll build a secure transcription Public API using FastAPI, AWS Secrets Manager, and a database (SQLite for simplicity, but it can be swapped with PostgreSQL, MySQL, or AWS RDS). The API will allow users to upload audio files for transcription while ensuring secure access using API keys.
 
-For a comprehensive list of my code and tech blogs, please visit my Medium profile: [My Medium Blogs](https://medium.com/@maazbinmustaqeem)
+## Full Guide
 
-## Project Overview
-
-This repository includes different folders for each blog, containing relevant code samples and detailed README files for setup and implementation.
+For a detailed step-by-step guide on how to implement this logging solution, please visit the full blog post on Medium: [How to Easily Upload FastAPI Logs to AWS CloudWatch: A Beginner’s Guide](https://medium.com/@maazbinmustaqeem/how-to-upload-fastapi-logs-to-aws-cloudwatch-a-beginners-guide-66b9957078b9)
 
 ## Getting Started
 
-To get started, navigate to the specific blog folder you’re interested in and follow the instructions provided in the respective README files.
+To get started, clone this repository and follow the instructions in the blog to set up your environment and run the application.
 
 ## License
 
@@ -24,4 +21,4 @@ This project is licensed under the MIT License.
 
 ## Connect with Me
 
-Feel free to reach out on [X](https://x.com/eyeofmaaz) and [LinkedIn](https://www.linkedin.com/in/maaz-bin-mustaqeem-34990b194/) for questions or collaboration opportunities!
+Feel free to reach out on [X](https://x.com/eyeofmaaz) and [LinkedIn]([#](https://www.linkedin.com/in/maaz-bin-mustaqeem-34990b194/)) for questions or collaboration opportunities!
