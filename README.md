@@ -21,4 +21,4 @@ This project is licensed under the MIT License.
 
 ## Connect with Me
 
-Feel free to reach out on [X](https://x.com/eyeofmaaz) and [LinkedIn]([#](https://www.linkedin.com/in/maaz-bin-mustaqeem-34990b194/) for questions or collaboration opportunities!
+Feel free to reach out on [X](https://x.com/eyeofmaaz) and [LinkedIn](https://www.linkedin.com/in/maaz-bin-mustaqeem-34990b194/) for questions or collaboration opportunities!
