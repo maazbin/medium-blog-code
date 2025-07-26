@@ -27,6 +27,6 @@ async def update_book(book_id: int, book: BookUpdate, db: Session = Depends(get_
 async def delete_book(book_id: int, db: Session = Depends(get_db)):
     service.delete_book_by_id(db, book_id)
     return JSONResponse (
-        status_code=200,
+        status_code=204,
         content={"message" : "Book deleted successfully !"}
     )
